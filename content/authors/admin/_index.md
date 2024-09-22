@@ -64,7 +64,7 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-      Thesis on _Effect of Tonal Environment, Segmental Makeup, and Lexical Frequency on Tonal Coarticulation in Cantonese_. Supervised by Prof Matthew Gordon and Prof Stefan Th. Gries. 
+      Thesis on _Effect of Tonal Environment, Segmental Makeup, and Lexical Frequency on Tonal Coarticulation in Cantonese_. Supervised by [Prof Matthew Gordon](https://www.linguistics.ucsb.edu/people/matthew-gordon) and Prof Stefan Th. Gries. 
 
       Courses included:
       - Computational Linguistics, Corpus Linguistics
@@ -123,11 +123,6 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
-
-  - name: ' '
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
       - name: Praat
         description: ''
         percent: 40
@@ -136,6 +131,24 @@ skills:
         description: ''
         percent: 60
         icon: eye
+
+  - name: 'Statistical Skills'
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Regression Analysis
+        description: ''
+        percent: 40
+        icon: document-chart-bar
+      - name: Machine learning
+        description: ''
+        percent: 60
+        icon: chart-bar-square
+      - name: Language Model
+        description: ''
+        percent: 60
+        icon: language
+
 
 languages:
   - name: Mandarin
@@ -179,4 +192,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is 刘潞 [ljoʊ35 lu51] in Mandarin, and 劉潞 [lɐu21 lou2] in Cantonese. I recently graduated from University of California, Santa Barbara with a double major in Linguistics and Statistics. I am currently working as a research and learning assitant at UCSB. 
