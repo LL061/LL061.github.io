@@ -123,6 +123,11 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
+
+  - name: ''
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Praat
         description: ''
         percent: 40
@@ -132,42 +137,13 @@ skills:
         percent: 60
         icon: eye
 
-  - name: Math Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-      - name: Cooking
-        description: ''
-        percent: 60
-        icon: chef-hat
-      - name: Baking
-        description: ''
-        percent: 60
-        icon: chef-hat
-      - name: Gardening
-        description: ''
-        percent: 60
-        icon: tree
-
 languages:
-  - name: English
+  - name: Mandarin
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: Cantonese
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
