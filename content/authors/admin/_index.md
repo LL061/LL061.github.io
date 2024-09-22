@@ -64,7 +64,7 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-      Thesis on _Effect of Tonal Environment, Segmental Makeup, and Lexical Frequency on Tonal Coarticulation in Cantonese_. Supervised by [Prof Matthew Gordon](https://www.linguistics.ucsb.edu/people/matthew-gordon) and Prof Stefan Th. Gries. 
+      Thesis on _Effect of Tonal Environment, Segmental Makeup, and Lexical Frequency on Tonal Coarticulation in Cantonese_. Supervised by <a href="https://www.linguistics.ucsb.edu/people/matthew-gordon/"> Prof Matthew Gordon </a> and <a href="https://www.linguistics.ucsb.edu/people/matthew-gordon/"> Prof Stefan Th. Gries </a>. 
 
       Courses included:
       - Computational Linguistics, Corpus Linguistics
