@@ -35,8 +35,8 @@ abstract: In this study, we examine the length of IUs in which words appear and 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
-  #- Large Language Models
+tags:
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
