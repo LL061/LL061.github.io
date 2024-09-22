@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Lu Liu
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -124,7 +124,19 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+      - name: Docker
+        description: ''
+        percent: 60
+        icon: docker
+      - name: Kubernetes
+        description: ''
+        percent: 60
+        icon: kubernetes
+      - name: Git
+        description: ''
+        percent: 80
+        icon: git
+  - name: Math Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -140,6 +152,18 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Cooking
+        description: ''
+        percent: 60
+        icon: chef-hat
+      - name: Baking
+        description: ''
+        percent: 60
+        icon: chef-hat
+      - name: Gardening
+        description: ''
+        percent: 60
+        icon: tree
 
 languages:
   - name: English

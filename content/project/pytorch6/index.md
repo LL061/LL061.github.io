@@ -1,6 +1,6 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Project 6
+date: 2024-09-01
 # external_link: https://github.com/pytorch/pytorch
 tags:
   - Hugo
