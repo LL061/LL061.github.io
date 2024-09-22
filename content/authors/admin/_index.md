@@ -119,26 +119,19 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: Data Science
+      - name: R/RSTAN
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/rstudio
+      - name: Praat
         description: ''
         percent: 40
-        icon: circle-stack
-      - name: Docker
+        icon: speaker-wave
+      - name: Eye-Tracker
         description: ''
         percent: 60
-        icon: computer-desktop
-      - name: Kubernetes
-        description: ''
-        percent: 60
-        icon: kubernetes
-      - name: Git
-        description: ''
-        percent: 80
-        icon: git
+        icon: eye
+
   - name: Math Skills
     color: '#eeac02'
     color_border: '#f0bf23'
