@@ -43,6 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: papers
     content:
       title: Papers and Abstracts
       text: ""
