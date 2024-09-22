@@ -74,7 +74,7 @@ education:
       #text: 'Read Thesis'
       #url: 'https://example.com'
   - area: B.S. Statistics and Data Science 
-    institution: Massachusetts Institute of Technology
+    institution: University of California, Santa Barbara
     date_start: 2020-10-01
     date_end: 2024-09-14
     summary: |
@@ -83,32 +83,32 @@ education:
       Courses included:
       - Mathematical Proof, Advanced Linear Algebra, Numerical Analysis
       - Probability & Statistics, Machine Learning, Linear Regression, Stochastic Process, Time Series
-      - Programming in R, Intermediate Python, 
+      - Programming in R, Intermediate Python
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: University of California, Santa Barbara
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-09-20
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Assisted in literature review, statistical modeling and analysis for various projects
+      - Performed audio transcription tasks and worked with the experimental participants if needed
+
+  - position: Statistics Tutor
+    company_name: University of California, Santa Barbara
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-24
+    date_end: 2024-03-24
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provided drop-in tutoring sessions for statistic scourses,assisting students with understanding and applying statistical concepts.
+      - Led group tutoring sessions,facilitating discussions and collaborative learning among students.
+      - Developed lesson plans and instructional materials tailored to individual student needs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,7 +130,7 @@ skills:
       - name: Docker
         description: ''
         percent: 60
-        icon: docker
+        icon: computer-desktop
       - name: Kubernetes
         description: ''
         percent: 60
