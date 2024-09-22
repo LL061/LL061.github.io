@@ -124,7 +124,7 @@ skills:
         percent: 100
         icon: devicon/rstudio
 
-  - name: ''
+  - name: ' '
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
