@@ -49,44 +49,43 @@ profiles:
 interests:
   - Laboratory Phonetics and Phonology
   - Computational Linguistics
-  - Corpus Linguistics and Statistical Modeling
+  - Corpus Linguistics 
+  - Statistical Modeling
   - Tonal languages
   - Prosody and Tone Interaction
   - Speech Production and Perception
   
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.A. Linguistics
+    institution: University of California, Santa Barbara
+    date_start: 2022-10-01
+    date_end: 2024-09-14
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
+
+      Thesis on _Effect of Tonal Environment, Segmental Makeup, and Lexical Frequency on Tonal Coarticulation in Cantonese_. Supervised by Prof Matthew Gordon and Prof Stefan Th. Gries. 
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+      - Computational Linguistics, Corpus Linguistics
+      - Linguistics Analysis, Phonetics, Phonology, Syntax, Morphology
+    # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: B.S. Statistics and Data Science 
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-10-01
+    date_end: 2024-09-14
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.9/4.0
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematical Proof, Advanced Linear Algebra, Numerical Analysis
+      - Probability & Statistics, Machine Learning, Linear Regression, Stochastic Process, Time Series
+      - Programming in R, Intermediate Python, 
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
