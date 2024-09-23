@@ -6,6 +6,9 @@ authors:
   - Chris Brendel
   - Admin
   - Simon Todd
+  - Chris
+
+share: false
 ---
 
 Explore the effect of functional load on historically attested phoneme mergers with the help of language model
