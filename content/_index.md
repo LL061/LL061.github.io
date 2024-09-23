@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a student reseacher with a general interest in speech analysis. My previous work focueses on tonal langauges, specifically Cantonese. I am interested in the application of statistical and corpus method in the field of speech production and percetion, language and sound variation. 
+        I am a student reseacher with a general interest in speech analysis. My previous work focuses on tonal langauges, specifically Cantonese. I am interested in the application of statistical and corpus method in the field of speech production and percetion, language and sound variation. 
 
         I am always open to collaboration. Please reach out! 😃
     design:
