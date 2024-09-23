@@ -68,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - project/Prosodic-Profile-Modeling
+  - Prosodic-Profile-Modeling
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
