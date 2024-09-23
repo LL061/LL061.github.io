@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a student reseacher with a general interest in speech analysis. My previous work focueses on tonal langauges, specifically Cantonese. I am interested in the application of statistical and corpus method in the field of speech production and percetion, language and sound variation. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am always open to collaboration. Please reach out! 😃
     design:
       columns: '1'
   - block: collection
