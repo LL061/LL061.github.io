@@ -6,7 +6,6 @@ authors:
   - Chris Brendel
   - Admin
   - Simon Todd
-  - Chris
 
 share: false
 ---
