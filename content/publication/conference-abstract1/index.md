@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.semdial.org/anthology/Z23-Lai_semdial_0018.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -52,7 +52,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-share: false
+
+cascade:
+  create: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
