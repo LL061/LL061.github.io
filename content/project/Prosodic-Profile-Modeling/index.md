@@ -17,4 +17,4 @@ Statistical modeling of intination units.
 <!--more-->
 We utilized the techniques of bayesian inference to model the distribution of length of the intonation units and the position of the top 200 words within the intonation units in Santa Barbara corpu. By doing a clustering on the parameters of the statistical distribution, we aim to uncover the syntactic, semantics, and pragmatics of the words. 
 
-The above plot is an example of the joint distributin of the word 'he', where each subplot represents the distributin of the position given a specific length of the intonation unit. 
+The above plot is an example of the joint distributin of the word 'he', where each subplot represents the distributin of the position given a specific length of the intonation unit. The black bars are generated using the posterior prediction from the bayesian model, and the red dot represents the distribution of the original data. 
