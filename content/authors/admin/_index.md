@@ -87,6 +87,17 @@ education:
 
 
 work:
+  - position: Learning Assistant
+    company_name: University of California, Santa Barbara
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-26
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Assisted students with understanding and applying programming concepts in the context of linguistic data analysis.
+      - Provided one-on-one and group support during office hours to enhance student comprehension of course material.
+
   - position: Research Assistant
     company_name: University of California, Santa Barbara
     company_url: ''
@@ -136,6 +147,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Bayesian Inference
+        description: ''
+        percent: 40
+        icon: chart-bar
       - name: Regression Analysis
         description: ''
         percent: 40
