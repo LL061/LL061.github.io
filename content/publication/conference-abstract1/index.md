@@ -37,7 +37,7 @@ abstract: In this study, we examine the length of IUs in which words appear and 
   #- Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -52,9 +52,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-cascade:
-  create: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
