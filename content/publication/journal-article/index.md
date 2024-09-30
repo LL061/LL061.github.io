@@ -23,11 +23,11 @@ publishDate: '2024-09-22T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *the 27th Workshop on the Semantics and Pragmatics of Dialogue*
-publication_short: In *SEMDIAL 2023*
+publication: Submitted to *Bilingualism Language and Cognition*
+publication_short: Submitted to *Bilingualism Language and Cognition*
 
 abstract: In this study, we examine the length of IUs in which words appear and position of words within IUs in the Santa Barbara Corpus of Spoken American English (DuBois et al. 2000), which is manually annotated for IUs based on acoustic cues (DuBois 1992). We find strong systematicity in word distributions across the lexicon, modellable with simple probabilistic models.
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.semdial.org/anthology/Z23-Lai_semdial_0018.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
