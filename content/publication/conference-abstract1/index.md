@@ -1,5 +1,5 @@
 ---
-title: 'From position to function: Exploring word distributions within intonation units in American English conversation'
+title: 'Noncanonical uses of similative demonstrative gam2 in conversational Cantonese and beyond'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,6 @@ title: 'From position to function: Exploring word distributions within intonatio
 authors:
   - Ryan Ka Yau Lai Yan
   - admin
-  - Haoran Yan
-  - John W. DuBois
 
 # Author notes (optional)
 #author_notes:
