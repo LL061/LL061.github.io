@@ -1,5 +1,5 @@
 ---
-title: Uses of Similative Demonstrative, **gam2**, in Cantonese
+title: Uses of Similative Demonstrative, *gam2*, in Cantonese
 date: 2024-09-22
 # external_link: https://github.com/pandas-dev/pandas
 authors:
