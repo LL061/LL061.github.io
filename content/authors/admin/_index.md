@@ -57,6 +57,11 @@ interests:
   
 
 education:
+  - area: Ph.D. Linguistics
+    institution: The Ohio State University
+    date_start: 2025-08-16
+
+
   - area: B.A. Linguistics
     institution: University of California, Santa Barbara
     date_start: 2022-10-01
